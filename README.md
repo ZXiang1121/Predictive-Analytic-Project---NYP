@@ -33,18 +33,18 @@ Due to a shortage of healthcare professionals, it will also be difficult to prov
 
 ## Main & Sub Tasks
 Main Task
-- Determine the important factors that contribute to an individual getting common health problems
+Determine the important factors that contribute to an individual getting common health problems
 > - Data Collection 
 > - Data Understanding
 > - Data Cleaning / Pre-processing
 > - Data Modelling
 > - Report Writing
-- Sub-Task
-●	Provide final predictive of at least 85% accuracy 
-●	Identify business objectives
-○	Select our datasets to use
-○	Determine which industry we want to work with 
-○	Consult industry professionals 
+Sub-Task
+-	Provide final predictive of at least 85% accuracy 
+-	Identify business objectives
+    -	Select our datasets to use
+    - Determine which industry we want to work with 
+    - Consult industry professionals 
 ●	Prepare data for modelling 
 ○	Data visualisation and understanding using software tools mentioned here 
 ○	Select which variables to use
