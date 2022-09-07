@@ -45,18 +45,18 @@ Sub-Task
     -	Select our datasets to use
     - Determine which industry we want to work with 
     - Consult industry professionals 
-●	Prepare data for modelling 
-○	Data visualisation and understanding using software tools mentioned here 
-○	Select which variables to use
-●	Data modelling 
-○	Focusing on logistic regression, support vector machine, decision tree/ random forest, neural network and with the help of SAS Viya, we will train, test and tune our models to provide our most accurate and effective model for recommendations
-●	Report writing 
-○	Document down our process throughout this project 
-○	Combine our different models and documentations
-○	Set and meet timelines (Gantt Chart)
-●	Final presentation 
-○	Finalising and selecting best model 
-○	Prepare slides and rehearsal
+- Prepare data for modelling 
+    - Data visualisation and understanding using software tools mentioned here 
+    - Select which variables to use
+- Data modelling 
+    - Focusing on logistic regression, support vector machine, decision tree/ random forest, neural network and with the help of SAS Viya, we will train, test and tune our models to provide our most accurate and effective model for recommendations
+- Report writing 
+    - Document down our process throughout this project 
+    - Combine our different models and documentations
+    - Set and meet timelines (Gantt Chart)
+- Final presentation 
+    - Finalising and selecting best model 
+    - Prepare slides and rehearsal
 
 
 ## Data Collection and Exploration
