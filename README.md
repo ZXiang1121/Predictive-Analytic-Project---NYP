@@ -84,9 +84,9 @@ Dataset was understood through a codebook example as below:
 
 Data was observed through chart created with Tableau and documented as below.
 This chart above shows us the number of respondents who are diagnosed with diabetes, non-diabetics and borderline diabetes.
-➔	Value 1 is respondents with diabetes (male and female).
-➔	Value 2 are female respondents only who say they were told that they were diagnosed with diabetes during pregnancy.
-➔	Values 3 & 4 are respondents who do not have diabetes or are experiencing borderline diabetes.
+> - Value 1 is respondents with diabetes (male and female).
+> - Value 2 are female respondents only who say they were told that they were diagnosed with diabetes during pregnancy.
+> - Values 3 & 4 are respondents who do not have diabetes or are experiencing borderline diabetes.
 Since our target variable is to produce a binary outcome, we will reduce it to 2 values by creating values 1 and 0.  1 for respondents with diabetes and 0 for non-diabetics.
 As shown in the chart above it was found that there are values like “Null”, 7 which represents “Don’t Know”/”Not Sure” and 9 represents “Refused to answer”. These data recorded down would not generate any useful findings. Only data that is able to tell if a person has or does not have diabetes are considered to support our modelling.
 
