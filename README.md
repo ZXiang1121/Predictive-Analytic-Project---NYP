@@ -39,7 +39,7 @@ Main Task
 > Data Cleaning / Pre-processing
 > Data Modelling
 > Report Writing
-Sub-Task
+- Sub-Task
 ●	Provide final predictive of at least 85% accuracy 
 ●	Identify business objectives
 ○	Select our datasets to use
