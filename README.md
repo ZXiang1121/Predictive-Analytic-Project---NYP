@@ -62,7 +62,7 @@ Sub-Task
 ## Data Collection and Exploration
 As we have found out that stroke and diabetes are on the rise, we have decided to split the task to focus on these two health conditions. Stroke will be done and documented by Shi Min and Shermaine, while Diabetes will be done and documented by ZhangXiang and Rawtbhik. The data collected and prepared are sourced from Kaggle and the individual selected data source can be found below: 
 - Stroke – Stroke Prediction|Visualization & Prediction
-- Diabetes –   Diabetes Prediction | BRFSS2015
+- Diabetes –   Diabetes Prediction | BRFSS2015 (https://www.cdc.gov/brfss/annual_data/annual_2015.html)
 
 ### Diabetes
 This Behavioural Risk Factor Surveillance System (BRFSS) dataset is administered and supported by CDC's Population Health Surveillance Branch, under the Division of Population Health at the National Centre for Chronic Disease Prevention and Health Promotion.
@@ -120,10 +120,6 @@ In the end, balanced dataset was selected for modelling, as it return a better r
 
 ## Modelling
 
-## Project Proposal
-
-## Milestone Report
-
-## Final Report
+Via SAS Viya
 
 
